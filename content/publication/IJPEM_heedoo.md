@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *International Journal of Precision Engineering and Manufacturing*."
-# publication_short = "In *JFR*"
+# publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "In this work, we report a thermobattery that can efficiently harvest low-grade waste heat. The thermobattery utilizes temperature dependence of ferri/ferrocyanide (Fe(CN)63-/Fe(CN)64-) redox potential and employs the porous carbon textile electrode that is coated with single-walled carbon nanotube (SWNT). Simple and scalable dipping and drying process was applied to prepare the SWNT coated textile electrodes (SWNT-CT). The SWNT coating not only decreases the sheet conductance of the textile remarkably but also

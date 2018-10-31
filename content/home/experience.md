@@ -40,7 +40,7 @@ date_format = "January 2006"
   date_start = "2016-07-11"
   date_end = "2016-07-22"
   description = """
-  Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
+  * Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
   """
 
 +++

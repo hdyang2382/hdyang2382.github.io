@@ -34,7 +34,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
+  title = "Research Assistant"
   company = "University X"
   company_url = ""
   location = "California"

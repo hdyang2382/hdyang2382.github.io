@@ -18,7 +18,7 @@ authors = ["[*Journal*] **Hee Doo Yang**", "Lemma Teshome Tufa", "Kyoung Min Bae
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Carbon*."
+publication = "**In *Carbon*.**"
 publication_short = ""
 
 # Abstract and optional shortened version.

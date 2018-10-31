@@ -4,7 +4,7 @@ date = 2016-02-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
-authors = ["[*Conference*] **Hee Doo Yang**", "and Alan T. Asbeck"]
+authors = ["[*Journal*] Hyeongwook Im", "Taewoo Kim", "Hyelynn Song", "Jongho Choi", "Jae Sung Park", "Raquel Ovalle-Robles", "**Hee Doo Yang**", "Kenneth D. Kihm", "Ray H. Baughman", "Hong H. Lee", "Tae June Kang", "and Yong Hyup Kim"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,22 @@ authors = ["[*Conference*] **Hee Doo Yang**", "and Alan T. Asbeck"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on. IEEE, 2018*."
+publication = "In *Nature communications*."
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We present a novel manufacturing process for creating monolithic, multi-chambered inflatable structures including both soft and rigid components.  Specifically, our process involves stacking layers of textiles or plastics and thermal adhesive film, then bonding the structure with a heat press or in an oven.  Several different ways of arranging textiles and thermal adhesive film in order to achieve airtight structures are presented.  Since this process only uses materials that bend, but do not stretch, it permits the easy inclusion of rigid structures such as circuit boards, plates that constrain inflatable chambers to bend in specified locations, and rigid pieces that enable sections of a robot to be connected in a modular fashion.  Additionally, the process permits folding layers before their assembly, leading to more complex geometries.  We present three different possible seam types, and enumerate the different types of corners that can be constructed without leaking.  We present measurements of the ability of these structures to support pressure and measurements of the strength of bonds between textiles and other materials.  Finally, we present two examples of robots constructed using this manufacturing method, including a hybrid soft/rigid robotic arm and a soft robot that can roll along the ground."
+abstract = "Conversion of low-grade waste heat into electricity is an important energy harvesting
+strategy. However, abundant heat from these low-grade thermal streams cannot be harvested
+readily because of the absence of efficient, inexpensive devices that can convert the waste
+heat into electricity. Here we fabricate carbon nanotube aerogel-based thermo-electrochemical
+cells, which are potentially low-cost and relatively high-efficiency materials for this
+application. When normalized to the cell cross-sectional area, a maximum power output
+of 6.6Wm-2 is obtained for a 51 oC inter-electrode temperature difference, with a Carnotrelative
+efficiency of 3.95%. The importance of electrode purity, engineered porosity and
+catalytic surfaces in enhancing the thermocell performance is demonstrated."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +51,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/IROS2018.pdf"
+url_pdf = "pdf/Nature.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

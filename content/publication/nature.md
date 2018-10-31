@@ -18,19 +18,11 @@ authors = ["[*Journal*] Hyeongwook Im", "Taewoo Kim", "Hyelynn Song", "Jongho Ch
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Nature communications*."
+publication = "In **Nature communications**."
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Conversion of low-grade waste heat into electricity is an important energy harvesting
-strategy. However, abundant heat from these low-grade thermal streams cannot be harvested
-readily because of the absence of efficient, inexpensive devices that can convert the waste
-heat into electricity. Here we fabricate carbon nanotube aerogel-based thermo-electrochemical
-cells, which are potentially low-cost and relatively high-efficiency materials for this
-application. When normalized to the cell cross-sectional area, a maximum power output
-of 6.6Wm-2 is obtained for a 51 oC inter-electrode temperature difference, with a Carnotrelative
-efficiency of 3.95%. The importance of electrode purity, engineered porosity and
-catalytic surfaces in enhancing the thermocell performance is demonstrated."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)

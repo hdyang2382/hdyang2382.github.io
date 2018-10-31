@@ -1,5 +1,5 @@
 +++
-# Selected Publications widget.
+# Preparation Publications widget.
 # This widget displays publications from `content/publication/` which have
 # `selected = false` in their `+++` front matter.
 widget = "Papers In Preparation"

@@ -1,6 +1,6 @@
 +++
-title = "A New Manufacturing Process for Soft Robots and Soft/Rigid Hybrid Robots"
-date = 2018-10-01T00:00:00
+title = "High-efficiency electrochemical thermal energyharvester using carbon nanotube aerogel sheet electrodes"
+date = 2016-02-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.

@@ -1,10 +1,10 @@
 +++
-title = "Team VALOR's ESCHER: A Novel Electromechanical Biped for the DARPA Robotics Challenge"
-date = 2017-02-27T00:00:00
+title = "Thermobattery based on CNT Coated Carbon Textile and Thermoelectric Electrolyte"
+date = 2015-06-20T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["[*Journal*] Coleman Knabe", "Robert Griffin", "James Burton", "Graham Cantor-Cooke", "Lakshitha Dantanarayana", "Graham Day", "Oliver Ebeling-Koning", "Eric Hahn", "Michael Hopkins", "Jordan Neal", "Jackson Newton", "Chris Nogales", "Viktor Orekhov", "John Peterson", "Michael Rouleau", "John Seminatore", "**Yoonchang Sung**", "Jacob Webb", "Nikolaus Wittenstein", "Jason Ziglar", "Alexander Leonessa", "Brian Lattimer", "and Tomonari Furukawa"]
+# Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
+authors = ["[*Journal*] Kyoung Min Bae", "**Hee Doo Yang**", "Lemma Teshome Tufa", "and Tae June Kang"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,22 @@ authors = ["[*Journal*] Coleman Knabe", "Robert Griffin", "James Burton", "Graha
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Field Robotics (JFR)*."
-publication_short = "In *JFR*"
+publication = "In *International Journal of Precision Engineering and Manufacturing*."
+# publication_short = "In *JFR*"
 
 # Abstract and optional shortened version.
-abstract = "The Electric Series Compliant Humanoid for Emergency Response (ESCHER) platform represents the culmination of four years of development at Virginia Tech to produce a full‐sized force‐controlled humanoid robot capable of operating in unstructured environments. ESCHER's locomotion capability was demonstrated at the DARPA Robotics Challenge (DRC) Finals when it successfully navigated the 61 m loose dirt course. Team VALOR, a Track A team, developed ESCHER leveraging and improving upon bipedal humanoid technologies implemented in previous research efforts, specifically for traversing uneven terrain and sustained untethered operation. This paper presents the hardware platform, software, and control systems developed to field ESCHER at the DRC Finals. ESCHER's unique features include custom linear series elastic actuators in both single and dual actuator configurations and a whole‐body control framework supporting compliant locomotion across variable and shifting terrain. A high‐level software system designed using the robot operating system integrated various open‐source packages and interfaced with the existing whole‐body motion controller. The paper discusses a detailed analysis of challenges encountered during the competition, along with lessons learned that are critical for transitioning research contributions to a fielded robot. Empirical data collected before, during, and after the DRC Finals validate ESCHER's performance in fielded environments."
+abstract = "In this work, we report a thermobattery that can efficiently harvest low-grade waste heat. The thermobattery utilizes temperature dependence of ferri/ferrocyanide (Fe(CN)63-/Fe(CN)64-) redox potential and employs the porous carbon textile electrode that is coated with single-walled carbon nanotube (SWNT). Simple and scalable dipping and drying process was applied to prepare the SWNT coated textile electrodes (SWNT-CT). The SWNT coating not only decreases the sheet conductance of the textile remarkably but also
+provides the number of available reaction sites for thermogalvanic conversion, resulting in improving electrical outputs. The
+capability for power generation in the thermobattery was quantitatively investigated by measuring potential versus current curves.
+Discharge behavior of the thermobattery was also discussed to provide an understanding of the internal resistances that limit output
+electrical power."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -43,7 +47,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/drc-jfr-2017.pdf"
+url_pdf = "pdf/IJPEM.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

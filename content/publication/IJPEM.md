@@ -3,8 +3,8 @@ title = "Thermobattery based on CNT Coated Carbon Textile and Thermoelectric Ele
 date = 2015-06-20T00:00:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Yoonchang Sung"]`.
-authors = ["[*Conference*] Jong-Hwan Kim", "**Yoonchang Sung**", "and Brian Lattimer"]
+# Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
+authors = ["[*Journal*] Kyoung Min Bae", "**Hee Doo Yang**", "Lemma Teshome Tufa", "and Tae June Kang"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["[*Conference*] Jong-Hwan Kim", "**Yoonchang Sung**", "and Brian Latt
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *IEEE International Conference on Robotics and Automation (ICRA)*."
-publication_short = "In *ICRA*"
+publication = "In *International Journal of Precision Engineering and Manufacturing*."
+publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This paper presents a fire heading estimation for solving the autonomous navigation problem of a firefighting robot in smoke-filled indoor fire environment. In smoke-filled fire environments, firefighters and firefighting robots experience difficulty maintaining direction while finding the fire source. To solve this, the statistical texture features in thermal images were analyzed and fused by using Bayesian estimation to compute the vertical and horizontal fire heading. For its validation, a large-scaled test-bed was built with a hallway and two rooms, with one of the rooms having a real size fire generating dense and dark smoke. The proposed method probabilistically computed the fire-heading toward the entrance of the hallway then guided the robot to the room with the actual fire, all while navigating in a smoke-filled situation. The experimental results have demonstrated the effectiveness of this method in indoor fire environments."
+abstract = "In this work, we report a thermobattery that can efficiently harvest low-grade waste heat. The thermobattery utilizes temperature dependence of ferri/ferrocyanide (Fe(CN)63-/Fe(CN)64-) redox potential and employs the porous carbon textile electrode that is coated with single-walled carbon nanotube (SWNT). Simple and scalable dipping and drying process was applied to prepare the SWNT coated textile electrodes (SWNT-CT). The SWNT coating not only decreases the sheet conductance of the textile remarkably but also provides the number of available reaction sites for thermogalvanic conversion, resulting in improving electrical outputs. The capability for power generation in the thermobattery was quantitatively investigated by measuring potential versus current curves. Discharge behavior of the thermobattery was also discussed to provide an understanding of the internal resistances that limit output electrical power."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "pdf/fire-icra-2017.pdf"
+url_pdf = "pdf/IJPEM.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

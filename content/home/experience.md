@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant (GRA)"
+  title = "Graduate Research Assistant (GRA)                  "
   company = "Assistive Robotics Laboratory (ARL), Virginia Tech"
   company_url = ""
   location = "Blacksburg, USA"
@@ -43,4 +43,26 @@ date_format = "January 2006"
   * Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
   """
 
+[[experience]]
+  title = "Research Internship"
+  company = "Nano-energy Laboratory, Pusan National University"
+  company_url = ""
+  location = "Blacksburg, USA"
+  date_start = "2014-09-01"
+  date_end = "2015-06-10"
+  description = """
+  * Design and control a tubing shaped flexible thermal energy harvester based on a carbon nanotube sheet electrode.
+  """
+  
+[[experience]]
+  title = "Undergraduate Research Program"
+  company = "Nano-energy Laboratory, Pusan National University (Past)"
+  company = "Advanced Materials Laboratory, INHA university (Current)"
+  company_url = "http://aml.inha.ac.kr/index.html"
+  location = "Blacksburg, USA"
+  date_start = "2012-12-01"
+  date_end = "2013-02-23"
+  description = """
+  * Control and Design manufacturing process about waste thermal energy harvester based on liquid thermoelectric.
+  """  
 +++

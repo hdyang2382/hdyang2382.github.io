@@ -19,27 +19,56 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Research Assistant (GRA)"
+  company = "Assistive Robotics Laboratory (ARL)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Blacksburg, USA"
+  date_start = "2015-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  
+  * Design and control a 4-DOF soft/rigid hybrid pneumatic manipulator, a revolving robot, and a deformable robot.
+  * Design a new manufacturing method for soft robots and soft/rigid hybrid robots.
+  * Design, fabrication, and evaluation of novel pneumatic artificial muscle actuators and pneumatic arm exoskeletons.
+  * Fundamental research into novel pneumatic and cable-driven structures.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "CEED Imagination Summer Camp Workshop Main Instructor"
+  company = "Assistive Robotics Laboratory (ARL)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Blacksburg, USA"
+  date_start = "2016-07-11"
+  date_end = "2016-07-22"
+  description = """
+  
+  Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
+  """
+
+[[experience]]
+  title = "Research Internship"
+  company = "Nano-energy Laboratory"
+  company_url = ""
+  location = "Busan, South Korea"
+  date_start = "2014-09"
+  date_end = "2015-06"
+  description = """
+  
+  Design and control a tubing shaped flexible thermal energy harvester based on a carbon nanotube sheet electrode.
+  """
+  
+[[experience]]
+  title = "Undergraduate Research Program"
+  company = "Nano-energy Laboratory"
+  company_url = ""
+  location = "Busan, South Korea"
+  date_start = "2012-12"
+  date_end = "2013-02"
+  description = """
+  
+  Control and Design manufacturing process about waste thermal energy harvester based on liquid thermoelectric.
+  """
+
 
 +++

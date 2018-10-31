@@ -28,7 +28,7 @@ readily because of the absence of efficient, inexpensive devices that can conver
 heat into electricity. Here we fabricate carbon nanotube aerogel-based thermo-electrochemical
 cells, which are potentially low-cost and relatively high-efficiency materials for this
 application. When normalized to the cell cross-sectional area, a maximum power output
-of 6.6Wm2 is obtained for a 51 C inter-electrode temperature difference, with a Carnotrelative
+of 6.6Wm-2 is obtained for a 51 oC inter-electrode temperature difference, with a Carnotrelative
 efficiency of 3.95%. The importance of electrode purity, engineered porosity and
 catalytic surfaces in enhancing the thermocell performance is demonstrated.
 DOI: 10.1038/ncomms10600 OPEN

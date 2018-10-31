@@ -19,7 +19,9 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant (GRA)                  "
+  title = "Graduate Research Assistant (GRA)
+  
+  "
   company = "Assistive Robotics Laboratory (ARL), Virginia Tech"
   company_url = ""
   location = "Blacksburg, USA"

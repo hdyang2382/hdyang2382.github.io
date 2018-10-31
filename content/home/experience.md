@@ -22,24 +22,25 @@ date_format = "January 2006"
   title = "Graduate Research Assistant (GRA)"
   company = "Assistive Robotics Laboratory (ARL), Virginia Tech"
   company_url = ""
-  location = "Blacksburg"
+  location = "Blacksburg, USA"
   date_start = "2015-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Control a Multi-DOF soft/rigid pneumatic manipulator, a revolving robot, and a deformable robot.
+  * Design a new manufacturing method for soft robots and soft/rigid hybrid robots.
+  * Design, fabrication, and evaluation of novel pneumatic artificial muscle actuators and pneumatic arm exoskeletons.
+  * Fundamental research into novel pneumatic and cable-driven structures.
   """
 
 [[experience]]
-  title = "Research Assistant"
-  company = "University X"
+  title = "CEED Imagination Summer Camp Workshop Main Instructor"
+  company = "Assistive Robotics Laboratory (ARL), Virginia Tech"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Blacksburg, USA"
+  date_start = "2016-07-11"
+  date_end = "2016-07-22"
+  description = """
+  Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
+  """
 
 +++

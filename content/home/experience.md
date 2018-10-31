@@ -43,7 +43,7 @@ date_format = "January 2006"
   date_end = "2016-07-22"
   description = """
   
-  Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
+  * Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
   """
 
 [[experience]]
@@ -55,7 +55,7 @@ date_format = "January 2006"
   date_end = "2015-06"
   description = """
   
-  Design and control a tubing shaped flexible thermal energy harvester based on a carbon nanotube sheet electrode.
+  * Design and control a tubing shaped flexible thermal energy harvester based on a carbon nanotube sheet electrode.
   """
   
 [[experience]]
@@ -67,7 +67,7 @@ date_format = "January 2006"
   date_end = "2013-02"
   description = """
   
-  Control and Design manufacturing process about waste thermal energy harvester based on liquid thermoelectric.
+  * Control and Design manufacturing process about waste thermal energy harvester based on liquid thermoelectric.
   """
 
 

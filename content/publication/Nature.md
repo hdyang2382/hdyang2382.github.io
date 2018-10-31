@@ -4,7 +4,7 @@ date = 2016-02-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
-authors = ["[*Journal*] Hyeongwook Im", "Taewoo Kim", "Hyelynn Song" "Jongho Choi", "Jae Sung Park", "Raquel Ovalle-Robles", "**Hee Doo Yang**", "Kenneth D. Kihm", "Ray H. Baughman", "Hong H. Lee", "Tae June Kang", "and Yong Hyup Kim"]
+authors = ["[*Conference*] **Hee Doo Yang**", "and Alan T. Asbeck"]
 
 # Publication type.
 # Legend:

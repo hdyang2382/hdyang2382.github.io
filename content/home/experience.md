@@ -21,9 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Graduate Research Assistant (GRA)"
-  company = "
-  
-  Assistive Robotics Laboratory (ARL), Virginia Tech"
+  company = "Assistive Robotics Laboratory (ARL), Virginia Tech"
   company_url = ""
   location = "Blacksburg, USA"
   date_start = "2015-09-01"

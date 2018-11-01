@@ -46,7 +46,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Internship"
-  company = "Nano-energy Laboratory, Pusan National University"
+  company = "Nano-energy Laboratory, Pusan National University (Past)
+  Advanced Materials Laboratory, INHA University (Current)"
   company_url = ""
   location = "Pusan, South Korea"
   date_start = "2014-09-01"

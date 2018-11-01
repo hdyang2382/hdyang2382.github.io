@@ -46,8 +46,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Internship"
-  company = "Nano-energy Laboratory, Pusan National University (Past)"
-  company_url = ""
+  company = "Nano-energy Laboratory, Pusan National University (Past) / Advanced Materials Laboratory, INHA Univeristy (Current)"
+  company_url = "http://aml.inha.ac.kr/index.html"
   location = "Pusan, South Korea"
   date_start = "2014-09-01"
   date_end = "2015-06-10"
@@ -57,7 +57,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Undergraduate Research Program"
-  company = "Nano-energy Laboratory, Pusan National University (Past)"
+  company = "Nano-energy Laboratory, Pusan National University (Past) / Advanced Materials Laboratory, INHA Univeristy (Current)"
   company_url = "http://aml.inha.ac.kr/index.html"
   location = "Pusan, South Korea"
   date_start = "2012-12-01"

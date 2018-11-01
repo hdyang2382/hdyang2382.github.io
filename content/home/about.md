@@ -24,11 +24,11 @@ weight = 5
 
 [[education.courses]]
   course = "B.S. in Nanomechatronics Engineering"
-  institution = "Busan National University"
+  institution = "Pusan National University"
   year = 2015
  
 +++
 
 # Biography
 
-I am a Ph.D. candidate in the Mechanical Engineering at Virginia Tech. I am a part of Assistive Robotics Laboratory (ARL) advised by Prof. Alan T. Asbeck. I received my B.S. degree in the Nanomechatronics Engineering from Busan National University in 2015, and M.S. degree in the Mechanical Engineering from Virginia Tech in 2015, repectively.
+I am a Ph.D. candidate in the Mechanical Engineering at Virginia Tech. I am a part of Assistive Robotics Laboratory (ARL) advised by Prof. Alan T. Asbeck. I received my B.S. degree in the Nanomechatronics Engineering from Busan National University in 2015, and M.S. degree in the Mechanical Engineering from Virginia Tech in 2015, respectively.

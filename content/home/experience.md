@@ -27,10 +27,12 @@ date_format = "January 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
+  <span font-size:4em;">
   * Control a Multi-DOF soft/rigid pneumatic manipulator, a revolving robot, and a deformable robot.
   * Design a new manufacturing method for soft robots and soft/rigid hybrid robots.
   * Design, fabrication, and evaluation of novel pneumatic artificial muscle actuators and pneumatic arm exoskeletons.
   * Fundamental research into novel pneumatic and cable-driven structures.
+  </span>
   """
 
 [[experience]]

@@ -57,7 +57,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Undergraduate Research Program"
-  company = "Nano-energy Laboratory, Pusan National University (Past), Advanced Materials Laboratory, INHA university (Current)"
+  company = "Nano-energy Laboratory, Pusan National University (Past)"
   company_url = "http://aml.inha.ac.kr/index.html"
   location = "Pusan, South Korea"
   date_start = "2012-12-01"

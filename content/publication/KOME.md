@@ -1,5 +1,5 @@
 +++
-title = "Thermobattery based on CNT coated carbon textile and thermoelectric"
+title = "Thermobattery based on CNT coated carbon textile and thermoelectric electrolyte"
 date = 2014-05-23T00:00:00
 draft = false
 

@@ -1,7 +1,7 @@
 +++
 title = "The design, fabrication, and evaluation of a novel pneumatic artificial muscle actuator"
-date = 2018-10-20T00:00:00
-draft = false
+date = 2018-12-13T00:00:00
+draft = true
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
 authors = ["[*Journal*] **Hee Doo Yang**", "Brandyn T. Greezek", "and Alan T. Asbeck"]
@@ -18,7 +18,7 @@ authors = ["[*Journal*] **Hee Doo Yang**", "Brandyn T. Greezek", "and Alan T. As
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *Frontiers in Robotics and AI*.**, *Under Review*"
+publication = "**In *Frontiers in Robotics and AI*.**, *In Press*"
 publication_short = ""
 
 # Abstract and optional shortened version.

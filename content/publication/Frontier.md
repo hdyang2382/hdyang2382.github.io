@@ -1,7 +1,7 @@
 +++
 title = "The design, fabrication, and evaluation of a novel pneumatic artificial muscle actuator"
 date = 2018-12-13T00:00:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
 authors = ["[*Journal*] **Hee Doo Yang**", "Brandyn T. Greezek", "and Alan T. Asbeck"]
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

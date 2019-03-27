@@ -18,7 +18,7 @@ authors = ["[*Journal*] Kyoung Min Bae", "**Hee Doo Yang**", "Lemma Teshome Tufa
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *International Journal of Precision Engineering and Manufacturing*.**"
+publication = "**International Journal of Precision Engineering and Manufacturing**"
 publication_short = ""
 
 # Abstract and optional shortened version.

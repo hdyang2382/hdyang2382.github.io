@@ -1,6 +1,6 @@
 +++
-title = "A Four-DOF Modular Soft Robotic Manipulator: Modeling and Characterization"
-date = 2018-10-23T00:00:00
+title = "Mechanical Design and Characterization of a Modular Hybrid Continuum Robotic Manipulator with textile bellows"
+date = 2019-10-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
@@ -18,7 +18,7 @@ authors = ["[*Journal*] **Hee Doo Yang**", "and Alan T. Asbeck"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *The International Journal of Robotics Research*.**, *In Preparation*"
+publication = "**IEEE/ASME Transactions on Mechatronics**, *Under Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.

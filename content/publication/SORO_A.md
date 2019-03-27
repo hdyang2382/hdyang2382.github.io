@@ -1,6 +1,6 @@
 +++
 title = "Inflatable Origami Structures"
-date = 2019-10-26T00:00:00
+date = 2019-2-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.

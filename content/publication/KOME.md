@@ -18,7 +18,7 @@ authors = ["[*Conference*] Kyoung-min Bae, **Hee Doo Yang**", "Lemma Teshome Tuf
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Korean Society of Mechanical Engineers Conference 2014*."
+publication = "**The Korean Society of Mechanical Engineers Conference 2014**"
 publication_short = ""
 
 # Abstract and optional shortened version.

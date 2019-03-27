@@ -1,6 +1,6 @@
 +++
 title = "Mechanical Design and Characterization of a Modular Hybrid Continuum Robotic Manipulator with textile bellows"
-date = 2019-10-23T00:00:00
+date = 2019-02-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.

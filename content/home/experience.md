@@ -27,9 +27,11 @@ date_format = "January 2006"
   date_start = "2015-09-01"
   date_end = ""
   description = """
-  * Control a Multi-DOF soft/rigid pneumatic manipulator, a revolving robot, and a deformable robot.
-  * Design a new manufacturing method for soft robots and soft/rigid hybrid robots.
-  * Design, fabrication, and evaluation of novel pneumatic artificial muscle actuators and pneumatic arm exoskeletons.
+  * Developed a new manufacturing method for soft robots and soft/rigid hybrid robots
+  * Designed and modeled a textile bellows actuator
+  * Developed a new framework for modeling several robotic joint actuators
+  * Controlled a soft/rigid 4-DOF pneumatic robotic manipulator, a revolving robot, and a deformable robot
+  * Designed, fabricated, and evaluated novel pneumatic artificial muscle actuators, pneumatic elbow exoskeletons, and . other soft robots.
   * Fundamental research into novel pneumatic and cable-driven structures.
   """
 
@@ -41,7 +43,7 @@ date_format = "January 2006"
   date_start = "2016-07-11"
   date_end = "2016-07-22"
   description = """
-  * Creation of a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
+  * Created a pneumatic powered soft robotic gripper to demonstrate the concept of soft robotics to middle school students.
   """
 
 [[experience]]
@@ -52,7 +54,7 @@ date_format = "January 2006"
   date_start = "2014-09-01"
   date_end = "2015-06-10"
   description = """
-  * Design and control a tubing shaped flexible thermal energy harvester based on a carbon nanotube sheet electrode.
+  * Designed and characterized a tube-shaped flexible thermal energy harvester based on a carbon nanotube sheet electrode.
   """
   
 [[experience]]
@@ -63,6 +65,6 @@ date_format = "January 2006"
   date_start = "2012-12-01"
   date_end = "2013-02-23"
   description = """
-  * Control and Design manufacturing process about waste thermal energy harvester based on liquid thermoelectric.
+  * Developed manufacturing process for harvester for waste thermal energy.
   """  
 +++

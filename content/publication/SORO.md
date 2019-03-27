@@ -1,6 +1,6 @@
 +++
 title = "A New Manufacturing Process for soft Robots and Soft/Rigid Hybrid Robots, and its applications"
-date = 2018-10-21T00:00:00
+date = 2019-10-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.
@@ -18,7 +18,7 @@ authors = ["[*Journal*] **Hee Doo Yang**", "and Alan T. Asbeck"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *Soft Robotics (SORO)*.**, *Under Review*"
+publication = "**Soft Robotics (SORO)**, *Under Review*"
 publication_short = ""
 
 # Abstract and optional shortened version.

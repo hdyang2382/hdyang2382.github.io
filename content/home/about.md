@@ -9,7 +9,7 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = ["Robotics","Exoskeletons","Soft Robotics","Continuum Robotics","Manipulation"]
+  interests = ["Robotics","Exoskeletons","Soft Robotics","Continuum Robotics", "Microrobotics", "Medical Devices", "Mechanism Design"]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]

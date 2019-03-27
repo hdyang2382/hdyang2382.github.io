@@ -1,6 +1,6 @@
 +++
 title = "The design, fabrication, and evaluation of a novel pneumatic artificial muscle actuator"
-date = 2018-12-13T00:00:00
+date = 2019-01-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Hee Doo Yang"]`.

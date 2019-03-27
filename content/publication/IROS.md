@@ -18,7 +18,7 @@ authors = ["[*Conference*] **Hee Doo Yang**", "and Alan T. Asbeck"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on. IEEE, 2018*.**"
+publication = "**Intelligent Robots and Systems (IROS), 2018 IEEE/RSJ International Conference on. IEEE, 2018**"
 publication_short = ""
 
 # Abstract and optional shortened version.

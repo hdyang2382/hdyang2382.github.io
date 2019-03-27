@@ -1,5 +1,5 @@
 +++
-title = "Modeling and Characterization of a Novel Elbow Exoskeleton"
+title = "Inflatable Origami Structures"
 date = 2018-10-26T00:00:00
 draft = false
 
@@ -18,7 +18,7 @@ authors = ["[*Journal*] **Hee Doo Yang**", "and Alan T. Asbeck"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *Soft Robotics (SORO)*.**, *In Preparation*"
+publication = "**In *Smart Materials and Structures*.**, *In Preparation*"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -18,7 +18,7 @@ authors = ["[*Journal*] **Hee Doo Yang**", "Brandyn T. Greezek", "and Alan T. As
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**In *Frontiers in Robotics and AI*.**, *In Press*"
+publication = "**In *Frontiers in Robotics and AI**, *In Press*"
 publication_short = ""
 
 # Abstract and optional shortened version.
